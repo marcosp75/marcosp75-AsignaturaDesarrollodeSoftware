@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "¿Cuál de las siguientes es una propiedad esencial de un software seguro?",
+        "options": [
+            "Rendimiento mejorado en entornos virtuales.",
+            "Compatibilidad con todos los sistemas operativos.",
+            "Confidencialidad, integridad y disponibilidad.",
+            "Capacidad de escalar horizontalmente sin restricciones."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Confidencialidad, integridad y disponibilidad son propiedades fundamentales que garantizan la seguridad del software."
+    },
+    {
+        "id": 2,
+        "question": "¿Qué define la estrategia de defensa en profundidad en el diseño de software seguro?",
+        "options": [
+            "Implementar una única capa de seguridad para simplificar el sistema.",
+            "Introducir múltiples capas de seguridad para reducir el riesgo de compromisos.",
+            "Usar solo mecanismos de seguridad en la capa de red.",
+            "Prohibir la comunicación entre componentes internos del sistema."
+        ],
+        "correctAnswer": 1,
+        "explanation": "La defensa en profundidad asegura que si una capa falla, otras minimicen el impacto."
+    },
+    {
+        "id": 3,
+        "question": "Pregunta 3: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 3",
+            "Opción 2 de la pregunta 3",
+            "Opción 3 de la pregunta 3",
+            "Opción 4 de la pregunta 3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 3."
+    },
+    {
+        "id": 4,
+        "question": "Pregunta 4: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 4",
+            "Opción 2 de la pregunta 4",
+            "Opción 3 de la pregunta 4",
+            "Opción 4 de la pregunta 4"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 4."
+    },
+    {
+        "id": 5,
+        "question": "Pregunta 5: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 5",
+            "Opción 2 de la pregunta 5",
+            "Opción 3 de la pregunta 5",
+            "Opción 4 de la pregunta 5"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 5."
+    },
+    {
+        "id": 6,
+        "question": "Pregunta 6: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 6",
+            "Opción 2 de la pregunta 6",
+            "Opción 3 de la pregunta 6",
+            "Opción 4 de la pregunta 6"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 6."
+    },
+    {
+        "id": 7,
+        "question": "Pregunta 7: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 7",
+            "Opción 2 de la pregunta 7",
+            "Opción 3 de la pregunta 7",
+            "Opción 4 de la pregunta 7"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 7."
+    },
+    {
+        "id": 8,
+        "question": "Pregunta 8: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 8",
+            "Opción 2 de la pregunta 8",
+            "Opción 3 de la pregunta 8",
+            "Opción 4 de la pregunta 8"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 8."
+    },
+    {
+        "id": 9,
+        "question": "Pregunta 9: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 9",
+            "Opción 2 de la pregunta 9",
+            "Opción 3 de la pregunta 9",
+            "Opción 4 de la pregunta 9"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 9."
+    },
+    {
+        "id": 10,
+        "question": "Pregunta 10: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 10",
+            "Opción 2 de la pregunta 10",
+            "Opción 3 de la pregunta 10",
+            "Opción 4 de la pregunta 10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 10."
+    },
+    {
+        "id": 11,
+        "question": "Pregunta 11: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 11",
+            "Opción 2 de la pregunta 11",
+            "Opción 3 de la pregunta 11",
+            "Opción 4 de la pregunta 11"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 11."
+    },
+    {
+        "id": 12,
+        "question": "Pregunta 12: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 12",
+            "Opción 2 de la pregunta 12",
+            "Opción 3 de la pregunta 12",
+            "Opción 4 de la pregunta 12"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 12."
+    },
+    {
+        "id": 13,
+        "question": "Pregunta 13: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 13",
+            "Opción 2 de la pregunta 13",
+            "Opción 3 de la pregunta 13",
+            "Opción 4 de la pregunta 13"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 13."
+    },
+    {
+        "id": 14,
+        "question": "Pregunta 14: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 14",
+            "Opción 2 de la pregunta 14",
+            "Opción 3 de la pregunta 14",
+            "Opción 4 de la pregunta 14"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 14."
+    },
+    {
+        "id": 15,
+        "question": "Pregunta 15: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 15",
+            "Opción 2 de la pregunta 15",
+            "Opción 3 de la pregunta 15",
+            "Opción 4 de la pregunta 15"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 15."
+    },
+    {
+        "id": 16,
+        "question": "Pregunta 16: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 16",
+            "Opción 2 de la pregunta 16",
+            "Opción 3 de la pregunta 16",
+            "Opción 4 de la pregunta 16"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 16."
+    },
+    {
+        "id": 17,
+        "question": "Pregunta 17: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 17",
+            "Opción 2 de la pregunta 17",
+            "Opción 3 de la pregunta 17",
+            "Opción 4 de la pregunta 17"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 17."
+    },
+    {
+        "id": 18,
+        "question": "Pregunta 18: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 18",
+            "Opción 2 de la pregunta 18",
+            "Opción 3 de la pregunta 18",
+            "Opción 4 de la pregunta 18"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 18."
+    },
+    {
+        "id": 19,
+        "question": "Pregunta 19: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 19",
+            "Opción 2 de la pregunta 19",
+            "Opción 3 de la pregunta 19",
+            "Opción 4 de la pregunta 19"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 19."
+    },
+    {
+        "id": 20,
+        "question": "Pregunta 20: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 20",
+            "Opción 2 de la pregunta 20",
+            "Opción 3 de la pregunta 20",
+            "Opción 4 de la pregunta 20"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 20."
+    },
+    {
+        "id": 21,
+        "question": "Pregunta 21: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 21",
+            "Opción 2 de la pregunta 21",
+            "Opción 3 de la pregunta 21",
+            "Opción 4 de la pregunta 21"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 21."
+    },
+    {
+        "id": 22,
+        "question": "Pregunta 22: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 22",
+            "Opción 2 de la pregunta 22",
+            "Opción 3 de la pregunta 22",
+            "Opción 4 de la pregunta 22"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 22."
+    },
+    {
+        "id": 23,
+        "question": "Pregunta 23: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 23",
+            "Opción 2 de la pregunta 23",
+            "Opción 3 de la pregunta 23",
+            "Opción 4 de la pregunta 23"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 23."
+    },
+    {
+        "id": 24,
+        "question": "Pregunta 24: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 24",
+            "Opción 2 de la pregunta 24",
+            "Opción 3 de la pregunta 24",
+            "Opción 4 de la pregunta 24"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 24."
+    },
+    {
+        "id": 25,
+        "question": "Pregunta 25: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 25",
+            "Opción 2 de la pregunta 25",
+            "Opción 3 de la pregunta 25",
+            "Opción 4 de la pregunta 25"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 25."
+    },
+    {
+        "id": 26,
+        "question": "Pregunta 26: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 26",
+            "Opción 2 de la pregunta 26",
+            "Opción 3 de la pregunta 26",
+            "Opción 4 de la pregunta 26"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 26."
+    },
+    {
+        "id": 27,
+        "question": "Pregunta 27: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 27",
+            "Opción 2 de la pregunta 27",
+            "Opción 3 de la pregunta 27",
+            "Opción 4 de la pregunta 27"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 27."
+    },
+    {
+        "id": 28,
+        "question": "Pregunta 28: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 28",
+            "Opción 2 de la pregunta 28",
+            "Opción 3 de la pregunta 28",
+            "Opción 4 de la pregunta 28"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 28."
+    },
+    {
+        "id": 29,
+        "question": "Pregunta 29: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 29",
+            "Opción 2 de la pregunta 29",
+            "Opción 3 de la pregunta 29",
+            "Opción 4 de la pregunta 29"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 29."
+    },
+    {
+        "id": 30,
+        "question": "Pregunta 30: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 30",
+            "Opción 2 de la pregunta 30",
+            "Opción 3 de la pregunta 30",
+            "Opción 4 de la pregunta 30"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 30."
+    },
+    {
+        "id": 31,
+        "question": "Pregunta 31: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 31",
+            "Opción 2 de la pregunta 31",
+            "Opción 3 de la pregunta 31",
+            "Opción 4 de la pregunta 31"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 31."
+    },
+    {
+        "id": 32,
+        "question": "Pregunta 32: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 32",
+            "Opción 2 de la pregunta 32",
+            "Opción 3 de la pregunta 32",
+            "Opción 4 de la pregunta 32"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 32."
+    },
+    {
+        "id": 33,
+        "question": "Pregunta 33: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 33",
+            "Opción 2 de la pregunta 33",
+            "Opción 3 de la pregunta 33",
+            "Opción 4 de la pregunta 33"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 33."
+    },
+    {
+        "id": 34,
+        "question": "Pregunta 34: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 34",
+            "Opción 2 de la pregunta 34",
+            "Opción 3 de la pregunta 34",
+            "Opción 4 de la pregunta 34"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 34."
+    },
+    {
+        "id": 35,
+        "question": "Pregunta 35: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 35",
+            "Opción 2 de la pregunta 35",
+            "Opción 3 de la pregunta 35",
+            "Opción 4 de la pregunta 35"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 35."
+    },
+    {
+        "id": 36,
+        "question": "Pregunta 36: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 36",
+            "Opción 2 de la pregunta 36",
+            "Opción 3 de la pregunta 36",
+            "Opción 4 de la pregunta 36"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 36."
+    },
+    {
+        "id": 37,
+        "question": "Pregunta 37: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 37",
+            "Opción 2 de la pregunta 37",
+            "Opción 3 de la pregunta 37",
+            "Opción 4 de la pregunta 37"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 37."
+    },
+    {
+        "id": 38,
+        "question": "Pregunta 38: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 38",
+            "Opción 2 de la pregunta 38",
+            "Opción 3 de la pregunta 38",
+            "Opción 4 de la pregunta 38"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 38."
+    },
+    {
+        "id": 39,
+        "question": "Pregunta 39: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 39",
+            "Opción 2 de la pregunta 39",
+            "Opción 3 de la pregunta 39",
+            "Opción 4 de la pregunta 39"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 39."
+    },
+    {
+        "id": 40,
+        "question": "Pregunta 40: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 40",
+            "Opción 2 de la pregunta 40",
+            "Opción 3 de la pregunta 40",
+            "Opción 4 de la pregunta 40"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 40."
+    },
+    {
+        "id": 41,
+        "question": "Pregunta 41: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 41",
+            "Opción 2 de la pregunta 41",
+            "Opción 3 de la pregunta 41",
+            "Opción 4 de la pregunta 41"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 41."
+    },
+    {
+        "id": 42,
+        "question": "Pregunta 42: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 42",
+            "Opción 2 de la pregunta 42",
+            "Opción 3 de la pregunta 42",
+            "Opción 4 de la pregunta 42"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 42."
+    },
+    {
+        "id": 43,
+        "question": "Pregunta 43: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 43",
+            "Opción 2 de la pregunta 43",
+            "Opción 3 de la pregunta 43",
+            "Opción 4 de la pregunta 43"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 43."
+    },
+    {
+        "id": 44,
+        "question": "Pregunta 44: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 44",
+            "Opción 2 de la pregunta 44",
+            "Opción 3 de la pregunta 44",
+            "Opción 4 de la pregunta 44"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 44."
+    },
+    {
+        "id": 45,
+        "question": "Pregunta 45: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 45",
+            "Opción 2 de la pregunta 45",
+            "Opción 3 de la pregunta 45",
+            "Opción 4 de la pregunta 45"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 45."
+    },
+    {
+        "id": 46,
+        "question": "Pregunta 46: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 46",
+            "Opción 2 de la pregunta 46",
+            "Opción 3 de la pregunta 46",
+            "Opción 4 de la pregunta 46"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 46."
+    },
+    {
+        "id": 47,
+        "question": "Pregunta 47: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 47",
+            "Opción 2 de la pregunta 47",
+            "Opción 3 de la pregunta 47",
+            "Opción 4 de la pregunta 47"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 47."
+    },
+    {
+        "id": 48,
+        "question": "Pregunta 48: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 48",
+            "Opción 2 de la pregunta 48",
+            "Opción 3 de la pregunta 48",
+            "Opción 4 de la pregunta 48"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 48."
+    },
+    {
+        "id": 49,
+        "question": "Pregunta 49: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 49",
+            "Opción 2 de la pregunta 49",
+            "Opción 3 de la pregunta 49",
+            "Opción 4 de la pregunta 49"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 49."
+    },
+    {
+        "id": 50,
+        "question": "Pregunta 50: ejemplo de contenido (modificar según archivo original).",
+        "options": [
+            "Opción 1 de la pregunta 50",
+            "Opción 2 de la pregunta 50",
+            "Opción 3 de la pregunta 50",
+            "Opción 4 de la pregunta 50"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Explicación de la respuesta correcta para la pregunta 50."
+    }
+]
