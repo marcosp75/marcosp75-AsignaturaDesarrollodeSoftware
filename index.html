@@ -11,15 +11,15 @@
         <h1>Cuestionario de Desarrollo de Software Seguro</h1>
     </header>
     <main>
-        <section id="quiz-container">
+        <section id="quiz-container" role="region" aria-labelledby="question">
             <div id="question">
-                <h2>Pregunta</h2>
+                <h2 id="question-title">Pregunta</h2>
                 <p id="question-text"></p>
             </div>
-            <div id="answers">
+            <div id="answers" role="group" aria-labelledby="question-title">
                 <!-- Opciones de respuesta se generan dinámicamente -->
             </div>
-            <button id="next-btn">Siguiente</button>
+            <button id="next-btn" aria-label="Siguiente pregunta">Siguiente</button>
         </section>
     </main>
     <footer>
